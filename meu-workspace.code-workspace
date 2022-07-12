@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "eureka-service",
+			"path": "eureka-service"
+		},
+		{
+			"path": "controle-pessoas-ms"
+		},
+		{
+			"path": "controle-animais-ms"
+		},
+		{
+			"path": "arquitetura"
+		},
+		{
+			"path": "gatewaycloud"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
