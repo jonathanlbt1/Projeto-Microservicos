@@ -27,6 +27,10 @@ public class GatewaycloudApplication {
 
                 .build();
     }
+
+
+    //Codigo abaixo nao foi necessario.
+    
 	// end::route-locator[]
 
 	// tag::fallback[]
